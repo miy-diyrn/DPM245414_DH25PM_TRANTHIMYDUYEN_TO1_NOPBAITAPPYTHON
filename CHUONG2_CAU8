@@ -1,0 +1,19 @@
+""""
+Lỗi Cú pháp (Syntax Error)
+Mô tả: Xảy ra khi bạn viết code không tuân thủ đúng quy tắc cú pháp của ngôn ngữ Python.
+Ví dụ: Thiếu dấu hai chấm (:) sau câu lệnh if, viết sai chính tả tên hàm, hoặc không đóng ngoặc.
+Dấu hiệu: Chương trình sẽ dừng lại ngay lập tức và báo lỗi Syntax Error trước khi chạy bất kỳ dòng code nào.
+Lỗi Thực thi (Runtime Error/Exception)
+Mô tả: Xảy ra trong quá trình chương trình đang chạy.
+Ví dụ:
+NameError: Sử dụng một biến hoặc hàm chưa được định nghĩa.
+TypeError: Thực hiện phép toán trên các kiểu dữ liệu không tương thích (ví dụ: cộng chuỗi với số).
+IndexError: Cố gắng truy cập phần tử của danh sách bằng chỉ số nằm ngoài phạm vi.
+ValueError: Biến đổi kiểu dữ liệu không phù hợp (ví dụ: cố gắng chuyển chữ thành số).
+ZeroDivisionError: Chia cho 0.
+Dấu hiệu: Chương trình dừng lại và hiển thị một ngoại lệ (exception).
+Lỗi Logic (Logic Error)
+Mô tả: Chương trình chạy mà không gặp lỗi cú pháp hay ngoại lệ, nhưng lại đưa ra kết quả sai.
+Ví dụ: Sử dụng sai thuật toán, logic điều kiện sai, hoặc tính toán không chính xác.
+Dấu hiệu: Chương trình chạy bình thường nhưng kết quả đầu ra không đúng với mong đợi. 
+""""

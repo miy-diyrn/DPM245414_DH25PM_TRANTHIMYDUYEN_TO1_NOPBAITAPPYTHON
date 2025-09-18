@@ -1,0 +1,4 @@
+""""""
+Python hỗ trợ các kiểu dữ liệu số Integer (số nguyên), Float (số thực) và Complex (số phức).
+Python định nghĩa các lớp là int, float và complex để lưu trữ và thao tác các kiểu dữ liệu số.
+""""""

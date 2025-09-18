@@ -1,0 +1,9 @@
+""""""
+ Ghi chú một dòng (Single-line Comments) 
+Cách viết: Ghi chú một dòng được bắt đầu bằng ký tự #.
+Mục đích: Được sử dụng để giải thích một dòng code cụ thể hoặc để chú thích một phần code trong khi thử nghiệm mà không muốn nó chạy.
+
+ Ghi chú nhiều dòng (Multi-line Comments)
+Cách viết: Ghi chú nhiều dòng có thể được viết bằng cách sử dụng ba dấu nháy đơn ('') hoặc ba dấu nháy kép ("") và kết thúc bằng cùng một bộ dấu nháy đó. 
+Mục đích: Dùng để viết các khối chú thích dài, mô tả chi tiết một hàm, một lớp, hoặc một phần lớn của code. 
+""""""

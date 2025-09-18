@@ -1,0 +1,13 @@
+""""
+Sử dụng hàm input() để nhập chuỗi
+Đây là cách mặc định khi bạn muốn lấy dữ liệu từ bàn phím
+Giải thích:
+input("Nhập tên của bạn: ") sẽ hiển thị thông báo "Nhập tên của bạn: " cho người dùng và chờ họ nhập liệu.
+Dữ liệu nhập vào luôn được hàm input() trả về dưới dạng một chuỗi ký tự.
+
+Nhập các kiểu dữ liệu khác (số nguyên, số thực)
+Khi bạn cần nhập số hoặc các kiểu dữ liệu khác, bạn cần sử dụng các hàm ép kiểu như int() hoặc float() kết hợp với input()
+Giải thích:
+Hàm input() sẽ nhận chuỗi ký tự nhập từ bàn phím.
+Hàm int() hoặc float() sẽ chuyển đổi chuỗi đó thành kiểu số nguyên hoặc số thực tương ứng.
+""""

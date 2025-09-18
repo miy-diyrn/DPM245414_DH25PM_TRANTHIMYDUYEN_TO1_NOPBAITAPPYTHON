@@ -1,0 +1,9 @@
+""""""
+Các toán tử /, //, %, ** được sử dụng trong các phép toán số học: / là phép chia thông thường, trả về số thực;
+// là phép chia lấy nguyên, trả về số nguyên;
+ % là phép chia lấy dư (phần dư); 
+ và **\*\* ** là phép toán luỹ thừa.
+  Toán tử and là toán tử logic cho kết quả là True chỉ khi cả hai toán hạng đều là True, ngược lại là False. 
+  Toán tử or là toán tử logic cho kết quả là True nếu ít nhất một trong hai toán hạng là True. 
+  Toán tử is dùng để kiểm tra xem hai biến có tham chiếu đến cùng một đối tượng trong bộ nhớ hay không. 
+  """"

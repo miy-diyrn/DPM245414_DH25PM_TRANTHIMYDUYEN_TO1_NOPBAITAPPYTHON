@@ -1,0 +1,8 @@
+import math
+try
+    toan=float(input(" nhap diem toan: "))
+    ly=float(input("nhap diem ly: "))
+    hoa=float(input("nhap diem hoa"))
+    dcb=(toan+ly+hoa)/3
+    print("diem trung binh= ",dtb)
+    print("diem trung binh= ",round(dtb,2))
